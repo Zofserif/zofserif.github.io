@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: LINEAR ALGEBRA
 published: true
 ---
 # Linear Algebra!
