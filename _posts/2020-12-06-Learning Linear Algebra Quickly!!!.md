@@ -25,3 +25,15 @@ You can skip this step if you're strong enough!
 ## [Step 9:](https://zofserif.github.io/Step-9/) Datasets!
 
 ## [Step 10:](https://zofserif.github.io/Step-10/) Linear Transformations!
+
+
+## Conclusion:
+
+So, you viewed all the steps... Congratulations! You win a prize!
+
+
+
+
+
+
+########### 
