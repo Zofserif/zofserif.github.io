@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hello! I'm Troy Joaquin G. Vallarta Computer engineering student
 
-### More Information
+### This is a lesson for Linear Algebra
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog is a free site for learning about Linear Algebra.
 
-### Contact me
-
-[TROY VALLARTA](mailto: troy.joaquin.vallarta@adamson.edu.ph)
